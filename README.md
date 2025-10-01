@@ -39,7 +39,7 @@ State management is handled using **Provider**.
    
 2. Navigate to the project folder:
     ```bash
-    cd expense_tracker_flutter
+    cd expense_manager
    
 3. Install dependencies:
     ```bash
