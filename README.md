@@ -75,11 +75,11 @@ State management is handled using **Provider**.
 
 ## 📱 Screenshots
 <p align="center">
-  <img src="assets/home1.png" alt="Calculator Home" width="192"/>
-  <img src="assets/home2.png" alt="Calculator Home" width="192"/>
-  <img src="assets/manage_cat.png" alt="Calculator Home" width="192"/>
-  <img src="assets/manage_tag.png" alt="Calculator Home" width="192"/>
-  <img src="assets/menu.png" alt="Calculator Home" width="192"/>
+  <img src="assets/home1.png" alt="Home" width="192"/>
+  <img src="assets/home2.png" alt="Home" width="192"/>
+  <img src="assets/manage_cat.png" alt="Manage Category" width="192"/>
+  <img src="assets/manage_tag.png" alt="Manage Tag" width="192"/>
+  <img src="assets/menu.png" alt="Menu" width="192"/>
 </p>
 
 ---
